@@ -8,9 +8,5 @@ Json 파일에는 이미지가 존재하지만 실제로는 이미지가 없어 
 
 CVAT를 라벨링 툴로 사용하는 경우 유용함
   
-parents - data(or task) - images - image file  
-                        - annotations - json file  
-        - data(or task) - images - image file  
-                        - annotations - json file  
-        - repeat ......  
+![image](https://user-images.githubusercontent.com/32836490/108811454-a96c9b00-75f0-11eb-9f50-cc0f2ef9d310.png)
   
